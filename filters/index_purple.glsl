@@ -38,7 +38,7 @@ void main(void)
     color[1] = 0;
     color[2] += (color[2] * 255 / y) / 255;
 
-    color[0] = color[0] * 0.8;
-    color[2] = color[2] * 0.8;
+    color[0] = color[0] * 0.6;
+    color[2] = color[2] * 0.6;
 }
 
